@@ -48,4 +48,7 @@ public class UserDAO {
 
 
     }
-}
+
+    public void deleteUser(int id, String name, String email) {
+
+    }

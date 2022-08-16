@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f896dfa-de0d-447a-a266-e79897887884" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConnectionManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SQLQueries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SQLQueries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/PropertiesLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/util/PropertiesLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/kwokl/Sparta/JVDC2",
+    "last_opened_file_path": "C:/Users/kwokl/IdeaProjects/JVDCdatabase",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
